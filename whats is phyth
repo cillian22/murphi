@@ -1,0 +1,3 @@
+* write stfuff dow
+name = 'cillin'
+print (name)
